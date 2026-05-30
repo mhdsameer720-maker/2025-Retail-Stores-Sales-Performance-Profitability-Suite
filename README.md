@@ -1,15 +1,14 @@
-# 2025-Sale-Performance-Dashboard.
 # 2025 Corporate Sales Performance & Profitability Suite
 
 ## 📊 Business Case & Project Overview
-In modern corporate reporting, executive leadership often gets bogged down by localized customer noise when trying to assess overall organizational health. This project solves that problem.
+In modern corporate reporting, executive leadership often gets bogged down by localized customer noise when trying to assess overall organizational health. This project solves that problem by focusing on aggregate structural metrics.
 
-This repository features an enterprise-grade, 5-page (plus an executive year-end deep dive) **Sales Performance Dashboard** built on a fictional multi-regional corporate dataset for fiscal year 2025. 
+This repository features an enterprise-grade, multi-page **Sales Performance Dashboard** built entirely inside **Power BI** using a fictional corporate dataset for fiscal year 2025. 
 
 ### 🎯 Core Engineering Objectives:
 * **Strategic Macro-Level Tracking:** Intentionally designed to prioritize organizational hierarchy and broad temporal trends over granular, customer-by-customer logging.
 * **Streamlined Temporal View:** Standard quarterly roll-ups were completely bypassed to deliver an uninterrupted, month-over-month (MoM) and day-of-week operational pacing model.
-* **Dual-Metric Governance:** Equates top-line revenue tracking with bottom-line profitability margins to monitor structural cost control.
+* **Dual-Metric Governance:** Equates top-line revenue tracking with bottom-line profitability margins to monitor structural cost control across the fiscal year.
 
 ### 📈 Global Performance Benchmarks (FY 2025)
 * **Gross Sales Volume:** $443.55M Target vs. **$403.39M Actual** (Achieved **91.45%** of target)
@@ -35,12 +34,12 @@ The dashboard's ecosystem uses a dedicated global side-navigation panel, allowin
 
 ### 4. Year-To-Date Same Days Sale Comparison | Temporal Rhythms
 * **Strategic Value:** Isolates performance patterns based on repeating weekdays to optimize supply chain, staffing, and marketing spend across calendar dates.
-* **Implementation:** * Features a continuous time-series column view tracking identical repeating days across every month of the year.
+* **Implementation:** * Features a continuous time-series column view tracking identical repeating days across every month of the year to spot operational patterns.
   * Embedded with a **Category-Wise Sale Mix** donut chart detailing product category performance (Toys, Cosmetics, Home Furnishing, etc.). Interestingly, the data reveals incredibly balanced consumer demand, with each category maintaining a remarkably stable ~8% share of total revenue.
 
 ### 5. Day-Wise Sale of Filtered Month | Root-Cause Analysis
 * **Strategic Value:** Empowers mid-level management to diagnose sudden monthly drops or validate localized operational spikes.
-* **Implementation:** A highly dynamic analysis sheet utilizing interactive slicers for `Month`, `Region/Store`, and `Team`. Progress tracking is evaluated via custom KPI gauges designed to visualize narrow performance boundaries.
+* **Implementation:** A highly dynamic analysis sheet utilizing interactive native Power BI slicers for `Month`, `Region/Store`, and `Team`. Progress tracking is evaluated via custom KPI gauges designed to visualize narrow performance boundaries.
 
 ### 6. Year-Ending Executive Detail | December 2025 Deep-Dive
 * **Strategic Value:** Tailored specifically for year-end audits, fiscal closure reviews, and immediate strategic planning for the upcoming calendar year.
@@ -55,9 +54,12 @@ The dashboard's ecosystem uses a dedicated global side-navigation panel, allowin
 
 ---
 
-## 🚀 Technical Framework & Technologies Used
-* **BI Architecture:** [Insert Platform, e.g., Power BI / Tableau Desktop]
-* **Data Modeling:** Star Schema design featuring optimized Date, Store, and Category dimensions.
-* **Analytical Expressions:** Engineered advanced analytical calculations [Insert if applicable, e.g., DAX / Level of Detail (LOD) Expressions] to handle dynamic time intelligence (YTD/MTD tracking), rolling targets, and complex percentage-of-goal gauge visualizations.
+## 🚀 Technical Framework & Power BI Implementation
+* **BI Platform:** 100% Native Power BI Desktop environment.
+* **Data Transformation & Preparation:** Cleaned, structured, and compiled using **Power Query** to shape the operational dataset directly for dashboard consumption.
+* **Analytical Expressions (DAX):** Engineered customized DAX calculations to handle dynamic time intelligence (YTD/MTD tracking), rolling target evaluation ratios, and conditional metric tracking across the core KPI cards and gauge visualizations.
 
 ---
+
+## 📬 Contact, Collaboration & Feedback
+This dashboard was engineered to demonstrate the balance between minimalist, professional UI design and rigorous business logic. If you would like to discuss the underlying logic, suggest visual enhancements, or review the Power BI configuration, feel free to open an issue or connect with me directly!
