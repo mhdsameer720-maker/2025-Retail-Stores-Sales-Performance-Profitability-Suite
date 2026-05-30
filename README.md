@@ -11,7 +11,7 @@ This repository features an enterprise-grade, multi-page **Sales Performance Das
 * **Dual-Metric Governance:** Equates top-line revenue tracking with bottom-line profitability margins to monitor structural cost control across the fiscal year.
 
 ### 🔗 Live Interactive Report
-👉 **[Click Here to View the Live Interactive Power BI Report](https://app.powerbi.com/links/lXMNahHJHP?ctid=9163dbbb-7a84-4087-a7ef-8835e6717f11&pbi_source=linkShare)**
+👉 **[Click Here to View the Live Interactive Power BI Report](https://app.powerbi.com/links/uHE0K6YB_C?ctid=9163dbbb-7a84-4087-a7ef-8835e6717f11&pbi_source=linkShare)**
 
 ### 📈 Global Performance Benchmarks (FY 2025)
 * **Gross Sales Volume:** $443.55M Target vs. **$403.39M Actual** (Achieved **91.45%** of target)
@@ -65,4 +65,4 @@ The dashboard's ecosystem uses a dedicated global side-navigation panel, allowin
 ---
 
 ## 📬 Contact, Collaboration & Feedback
-This dashboard was engineered to demonstrate the balance between minimalist, professional UI design and rigorous business logic. If you would like to discuss the underlying logic, suggest visual enhancements, or test out the **[live report link](https://app.powerbi.com/links/lXMNahHJHP?ctid=9163dbbb-7a84-4087-a7ef-8835e6717f11&pbi_source=linkShare)**, feel free to open an issue or connect with me directly!
+This dashboard was engineered to demonstrate the balance between minimalist, professional UI design and rigorous business logic. If you would like to discuss the underlying logic, suggest visual enhancements, or test out the **[live report link](https://app.powerbi.com/links/uHE0K6YB_C?ctid=9163dbbb-7a84-4087-a7ef-8835e6717f11&pbi_source=linkShare)**, feel free to open an issue or connect with me directly!
