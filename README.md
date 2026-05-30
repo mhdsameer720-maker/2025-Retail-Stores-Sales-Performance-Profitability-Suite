@@ -61,6 +61,3 @@ The dashboard's ecosystem uses a dedicated global side-navigation panel, allowin
 * **Analytical Expressions:** Engineered advanced analytical calculations [Insert if applicable, e.g., DAX / Level of Detail (LOD) Expressions] to handle dynamic time intelligence (YTD/MTD tracking), rolling targets, and complex percentage-of-goal gauge visualizations.
 
 ---
-
-## 📬 Contact, Collaboration & Feedback
-This dashboard was engineered to demonstrate the balance between minimalist, professional UI design and rigorous business logic. If you would like to discuss the underlying data model, suggest architecture improvements, or review the schema design, feel free to open an issue or connect with me directly!
