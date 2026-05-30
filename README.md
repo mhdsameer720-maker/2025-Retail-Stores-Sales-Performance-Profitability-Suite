@@ -65,4 +65,4 @@ The dashboard's ecosystem uses a dedicated global side-navigation panel, allowin
 ---
 
 ## 📬 Contact, Collaboration & Feedback
-This dashboard was engineered to demonstrate the balance between minimalist, professional UI design and rigorous business logic. If you would like to discuss the underlying logic, suggest visual enhancements, or test out the **[live report link](PASTE_YOUR_POWER_BI_PUBLISHED_LINK_HERE)**, feel free to open an issue or connect with me directly!
+This dashboard was engineered to demonstrate the balance between minimalist, professional UI design and rigorous business logic. If you would like to discuss the underlying logic, suggest visual enhancements, or test out the **[live report link](https://app.powerbi.com/links/lXMNahHJHP?ctid=9163dbbb-7a84-4087-a7ef-8835e6717f11&pbi_source=linkShare)**, feel free to open an issue or connect with me directly!
